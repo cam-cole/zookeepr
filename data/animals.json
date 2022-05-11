@@ -216,6 +216,19 @@
         "loving"
       ],
       "id": "22"
+    },
+    {
+      "name": "Yankee",
+      "species": "Doge",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "23"
     }
   ]
 }
