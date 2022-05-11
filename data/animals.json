@@ -207,6 +207,15 @@
         "hungry"
       ],
       "id": "21"
+    },
+    {
+      "name": "Bobby",
+      "species": "Canine",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "22"
     }
   ]
 }
